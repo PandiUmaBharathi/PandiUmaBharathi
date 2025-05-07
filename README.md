@@ -2,13 +2,13 @@
 
 Currently studying Computer Science and Engineering at SPMVV University, Tirupati, Andhra Pradesh.
 
-🌱Exploring the depths of AI/ML and Full Stack Development
+🌱Exploring the depths of java development and Full Stack Development
  
  🚀 Passionate about building innovative software solutions as a full stack developer.
  
- 💡 Exploring advancements in AI/ML to integrate intelligent features into applications.
+ 💡 Exploring advancements in web development to integrate intelligent features into applications.
 
- 🔍 Utilizing Python, C, C++, and DSA to solve complex programming challenges.
+ 🔍 Utilizing java, python, C, C++, and DSA to solve complex programming challenges.
 
  💻 Specializing in software development with proficiency in Python, C, C++, and data structures,java.
 
